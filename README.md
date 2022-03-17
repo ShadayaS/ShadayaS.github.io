@@ -68,18 +68,18 @@ I joined the securities arm of JMMB Group Limited in August 2020 to support the 
 
 •	I created a model to track the performance of publicly listed companies:
 
-o	This included creating historical financial statements for each company in analytical format and grouping companies by industry utilizing Microsoft Excel
+   o	This included creating historical financial statements for each company in analytical format and grouping companies by industry utilizing Microsoft Excel
 
-o	Utilizing advanced formulas and vba script to run daily reports for each company.  This report included company description, most recent financial performance, and trading performance for that day.
+   o	Utilizing advanced formulas and vba script to run daily reports for each company.  This report included company description, most recent financial performance, and trading performance for that day.
 
 
 •	I created dashboards to track the performance of the company’s equity trading operations and to shows areas needing improvement.  This included:
 
-o	Revenue generated relative to budget
+  o	Revenue generated relative to budget
 
-o	Report on active client accounts and new accounts being opened
+  o	Report on active client accounts and new accounts being opened
 
-o	Number of trades being executed and its source (for example via online trading or in branch activities)
+  o	Number of trades being executed and its source (for example via online trading or in branch activities)
 
 
 •	Add value to current valuation model used by the team by implementing different methods of calculating discount rates for valuation purposes as well as including different valuation approaches into template.  This facilitated stress testing of valuation numbers to arrive at a reasonable valuation range for the proposed project at hand.
