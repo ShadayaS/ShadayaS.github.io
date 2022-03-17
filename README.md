@@ -14,54 +14,55 @@ The company successfully raised the desired J$5.5 billion.  In fact, the offer w
 ### Companies Listed on the Jamaica Stock Exchange
 During my tenor at Mayberry, from 2010-2020, I was instrumental in the listing of 18 of the 21 companies MIL brought to the market at that time.  2 to the Main market of the JSE and 16 to the Junior market.  These are:
 
-•	Lasco Distributors Ltd
+- Lasco Distributors Ltd
 
-•	Lasco Financial Services Ltd
+- Lasco Financial Services Ltd
 
-•	Lasco Manufacturing Ltd
+- Lasco Manufacturing Ltd
 
-•	Cargo Handlers Ltd
+- Cargo Handlers Ltd
 
-•	Honey Bun (1982) Ltd
+- Honey Bun (1982) Ltd
 
-•	Caribbean Producers (Jamaica) Ltd
+- Caribbean Producers (Jamaica) Ltd
 
-•	General Accident Insurance Co. Ltd
+- General Accident Insurance Co. Ltd
 
-•	Paramount Trading (Jamaica) Ltd
+- Paramount Trading (Jamaica) Ltd
 
-•	Caribbean Flavours & Fragrances Ltd
+- Caribbean Flavours & Fragrances Ltd
 
-•	Derrimon Trading Company Limited
+- Derrimon Trading Company Limited
 
-•	Medical Disposables & Supplies Ltd
+- Medical Disposables & Supplies Ltd
 
-•	Ironrock Insurance
+- Ironrock Insurance
 
-•	Main Event Entertainment Group Limited
+- Main Event Entertainment Group Limited
 
-•	Express Catering Limited
+- Express Catering Limited
 
-•	Lumber Depot Limited
+- Lumber Depot Limited
 
-•	Caribbean Assurance Brokers
+- Caribbean Assurance Brokers
 
-•	Mayberry Jamaican Equities
+- Mayberry Jamaican Equities
 
-•	Wigton Windfarm Limited
+- Wigton Windfarm Limited
 
 
 ### Other Accomplishments
 At the time of joining my team at MIL, we were a relatively small research unit, before growing to include investment banking to then a split of the two units. During my tenor, I straddled both units, conducting company valuations, market, and economic research, creating, designing, and implementing new reports among other duties to support all revenue generating departments and provide our clients with timely market information. I was also instrumental in raising over J$20 billion in private debt and equity transactions.
+
 **Some reports designed/created:**
 
-•	Local Monthly Economic Report
+- Local Monthly Economic Report
 
-•	Monthly Economic Report – Overseas
+- Monthly Economic Report – Overseas
 
-•	Government Operations Report – This included a review of the revenue and expenditure of the government, analysis of tax measures, impact of measures on the economy etc.
+- Government Operations Report – This included a review of the revenue and expenditure of the government, analysis of tax measures, impact of measures on the economy etc.
 
-•	Daily Market Report and Recommendation – Included trade summary for the day, stock performances, earnings and market multiples for selected companies and buy, hold, sell positions.
+- Daily Market Report and Recommendation – Included trade summary for the day, stock performances, earnings and market multiples for selected companies and buy, hold, sell positions.
 
 ---
 
