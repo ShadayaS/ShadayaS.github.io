@@ -1,7 +1,4 @@
-# ShadayaS.github.io
-Portfolio Development
-
-## Accomplishments at Work
+# Accomplishments at Work
 
 ## Mayberry Investments Limited
 ### Wigton Windfarm Tender and Subsequent Listing to the Jamaica Stock Exchange
