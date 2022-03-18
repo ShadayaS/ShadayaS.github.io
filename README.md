@@ -1,3 +1,27 @@
+The push for digitization and automation of reports is becoming the standard and employers are now looking for candidates with exposure to business intelligence and statistical packages such as Python and Microsoft Power BI.  As such, to improve my analytical skills via machine learning, I am currently pursuing a post graduate certificate in Data Analytics.  This is my final semester as an international student in Canada.
+
+---
+
+# About Me
+
+I graduated from the University of the West Indies, Mona campus with a Bachelor of Science degree in Statistics along with a minor in Economics.  Since entering the working world, I have worked in the capacity of a research/financial analyst at various levels.  Majority of my career was spent at a small investment firm, Mayberry Investments Limited, where I was responsible for conducting company and business valuations, as well as preparing financial and economic reports to support the revenue departments and the strategic investment decisions of the company. 
+
+In a bid to expand my career, I moved to a larger firm, JMMB Group Limited, in the capacity of a senior analyst, supporting the company’s private and public equity initiative.  This position has given me the opportunity to explore other facets of investment banking while facilitating room for growth, with a key area of focus being the ability to develop interactive reporting dashboards. These reports should be developed not only to track performance, but also to identify opportunities and drive communication that will impact change within the organization.  
+
+## Summary of Job Experiences
+
+My experience includes, but is not limited to, financial modeling, budget management, research, analyses, and explanation of financial and economic data.  As mentioned above, I most recently served in the capacity of Senior Analyst for the Securities arm (JMMBSL) of the JMMB Group where I supported the company’s private and public equity initiative.  
+
+I have an in-depth understanding of financial statements, the ability to analyze company performance and risks as well as to make forecasts.  Through various roles, I have learned to maintain relationships, serve clients and get the job done while being strong in my company’s policies and confidentiality.  This includes: 
+   1. Providing advice to clients resulting in effective business solutions.
+   2. Guiding clients on the best financial decision for them and their company to foster and sustain growth.
+   3. Plan, organize and execute transactions and events.
+   4. Follow through to completion while ensuring accuracy and displaying sound judgment, adapting to any change that may arise, so as to ensure a successful transaction.
+
+My past roles required frequent use of the Bloomberg terminal, which was instrumental in completing daily tasks. I am also proficient in Microsoft Office Applications and statistical packages such as Python and Rstudio.
+
+---
+
 # Accomplishments at Work
 
 ## Mayberry Investments Limited
