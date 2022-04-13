@@ -8,6 +8,13 @@ I graduated from the University of the West Indies, Mona campus with a Bachelor 
 
 In a bid to expand my career, I moved to a larger firm, JMMB Group Limited, in the capacity of a senior analyst, supporting the company’s private and public equity initiative.  This position has given me the opportunity to explore other facets of investment banking while facilitating room for growth, with a key area of focus being the ability to develop interactive reporting dashboards. These reports should be developed not only to track performance, but also to identify opportunities and drive communication that will impact change within the organization.  
 
+
+![Assignment 5 - Shadaya Small - RoadMap](https://user-images.githubusercontent.com/95316235/163276466-dd17d4e3-058c-407d-8867-373688002d37.JPG)
+
+
+---
+
+
 ## Summary of Job Experiences
 
 My experience includes, but is not limited to, financial modeling, budget management, research, analyses, and explanation of financial and economic data.  As mentioned above, I most recently served in the capacity of Senior Analyst for the Securities arm (JMMBSL) of the JMMB Group where I supported the company’s private and public equity initiative.  
