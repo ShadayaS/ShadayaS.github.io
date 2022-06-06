@@ -1,4 +1,4 @@
-The push for digitization and automation of reports is becoming the standard and employers are now looking for candidates with exposure to business intelligence and statistical packages such as Python and Microsoft Power BI.  As such, to improve my analytical skills via machine learning, I am currently pursuing a post graduate certificate in Data Analytics.  This is my final semester as an international student in Canada.
+The push for digitization and automation of reports is becoming the standard and employers are now looking for candidates with exposure to business intelligence and statistical packages such as Python and Microsoft Power BI.  As such, to improve my analytical skills via machine learning, I recently pursued a post graduate certificate in Data Analytics at Durham College.
 
 ---
 
